@@ -1,0 +1,27 @@
+footer {
+    width: 100%;
+    height: 20vh;
+    background-color: turquoise;
+    p {
+        position: absolute;
+        bottom: -119%;
+        left: 40%;
+    }
+    .links {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+        font-size: 42px;
+        color: black;
+        a {
+            color: black;
+            margin-left: 20px;
+            transition: color;
+        a:hover {
+            color: #f50e2d;
+
+        }
+        }
+    }   
+}
