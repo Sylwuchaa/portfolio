@@ -27,6 +27,9 @@
     flex-wrap: wrap;
     justify-content: space-around;
     align-items: center;
+     :hover {
+        animation: pulse 1s;
+    }
 }
 
 .horizontaline {

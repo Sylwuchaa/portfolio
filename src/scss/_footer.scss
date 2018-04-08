@@ -20,8 +20,9 @@ footer {
             color: black;
             margin-left: 20px;
             transition: color;
-        a:hover {
+         :hover {
             color: #f50e2d;
+            animation: shake 1s;
 
         }
         }

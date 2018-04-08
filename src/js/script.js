@@ -5,27 +5,27 @@ var $galleryModalItem = $(".gallery-item");
 
 projObj = [
   {
-    name: "Project 1",
+    name: "Projekt 1",
     label: "Enterprise pencil solution",
     info: "Project 1 Description"
   },
   {
-    name: "Project 2",
+    name: "Projekt 2",
     label: "A mobile adventure",
     info: "Project 2 Description"
   },
   {
-    name: "Project 3",
+    name: "Projekt 3",
     label: "Hacking",
     info: "Project 3 Description"
   },
   {
-    name: "Project 4",
+    name: "Projekt 4",
     label: "Read more about project 4",
     info: "Project 4 Description"
   },
   {
-    name: "Project 5",
+    name: "Projekt 5",
     info: "Project 5 Description"
   }
 ];
