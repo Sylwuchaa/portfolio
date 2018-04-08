@@ -1,18 +1,20 @@
 footer {
     width: 100%;
-    height: 20vh;
+    height: 19vh;
     background-color: turquoise;
+    border: 5px;
+    border-top-color: #2d343a;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
     p {
-        position: absolute;
-        bottom: -119%;
-        left: 40%;
+       text-align: center;
     }
     .links {
         display: flex;
         flex-direction: row;
         align-items: center;
-        justify-content: center;
-        font-size: 42px;
+        justify-content: space-around;
+        font-size: 44px;
         color: black;
         a {
             color: black;

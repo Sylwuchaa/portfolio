@@ -2,7 +2,7 @@
 #skills {
     background-color: white;
     width: 100%;
-    height: 50vh;
+    height: 55vh;
     padding-top: 20px;
     border: 2px turquoise;
     border-bottom-color: turquoise;
@@ -20,8 +20,8 @@
 }
 
 .icons {
-    margin-top: 69px;
-    font-size: 100px;
+    margin-top: 25px;
+    font-size: 105px;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
@@ -29,7 +29,7 @@
     align-items: center;
 }
 
-hr.horizontaline {
+.horizontaline {
     border: 0;
     height: 1px;
     background-image: -webkit-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0));
